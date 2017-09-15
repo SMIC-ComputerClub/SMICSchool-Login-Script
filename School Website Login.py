@@ -14,8 +14,8 @@ userAgentHeader = { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3
 data = {
     'do'      : 'login',
     'p'       : '144',
-    'username': 'liu_christopher',
-    'password': 'hackmeifyoucan',
+    'username': 'username',
+    'password': 'password',
     'submit'  : 'login'
 }
 
